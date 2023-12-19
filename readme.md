@@ -8,8 +8,6 @@ This project is a web application for a restaurant website, featuring functional
 [![Alt text](https://blogger.googleusercontent.com/img/a/AVvXsEiJWxnjrolBvLDCHWHV0Uw33aGfEWJv7BybFjlVYo-LpZ_tJakT4V_oiWWk_il6DblReZyInAUp7XLo6C9yRiHhXUuTUcVkIQesYRZK9Dnua_OaDpowUPHfH_EkH3-gRcgqqCZxpfGEEYSkcauJ3RNvexi4SeWUjO8g-UEhyqCYV5l7QyIj0ANmfSgui5E)](https://youtu.be/4EuKAeY_xGo)
 
 
-![Alt text](https://blogger.googleusercontent.com/img/a/AVvXsEiJWxnjrolBvLDCHWHV0Uw33aGfEWJv7BybFjlVYo-LpZ_tJakT4V_oiWWk_il6DblReZyInAUp7XLo6C9yRiHhXUuTUcVkIQesYRZK9Dnua_OaDpowUPHfH_EkH3-gRcgqqCZxpfGEEYSkcauJ3RNvexi4SeWUjO8g-UEhyqCYV5l7QyIj0ANmfSgui5E)
-
 ![Alt text](https://blogger.googleusercontent.com/img/a/AVvXsEi3V9BUNd-kPRUlh3-3bIsZu7ZnsH6gArRLTJqVnBIp9UE-g4Q0otacv9PwNULOeqHKrxjs5jBsBb0ctMBrM5pKeUN5YMqYxCxFzXGZ8Q4iokvA47ZBuP6blIVOw3QgS13bdiI70pyrFKO1qfp8feNq8tMyWOkyBx1g5MGHrpOlrbjzN-Gr-eIB8uiIAGo)
 
 ![Alt text](https://blogger.googleusercontent.com/img/a/AVvXsEjGYFI05n6zxxFyuF2pFby4ClxIbD5z2L4BgU5CKe09T3CbtZV_s5BWdNJeh33JJXU_749WbMtf1-JxqcIwyYvI0-8k5__CfAmhPTafWMWfAyjr7GZZv6zIdNp7xKYmSEWHf7Sko6s96Wew7DZqonh7AyoZeYxn5KaxRkIUXGD2VAzRtll5kcFiqtYgWoc)
